@@ -1,4 +1,4 @@
-# 🌟 DIO experts: Construindo um Projeto com Arquitetura Baseada em Microsserviços Usando Spring Cloud - Versão atualizada
+# 🌟 DESAFIO - DIO experts: Construindo um Projeto com Arquitetura Baseada em Microsserviços Usando Spring Cloud - Versão atualizada
 
 Este projeto é a implementação do tutorial da **DIO**, com todas as dependências e configurações **atualizadas** para o ambiente moderno do **Spring Boot 3.4.11** e o **Elasticsearch 8.x**.
 
